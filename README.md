@@ -6,7 +6,5 @@
 </caption><tfoot><tr><td colspan="10"> * Data fields produced in an export vary by service and user action and some services and/or actions do not produce each data field described.</td></tr></tfoot><tr><th width="25%"></th><th width="60%"></th><th width="15%"></th>        </tr></table><table style="width:100%"><caption>Exported Object: Audio attachments <br>Exported Object represents: Audio files related to your activity records <br>Object is exported in these formats:MPEG 
 </caption><tfoot><tr><td colspan="10"> * Data fields produced in an export vary by service and user action and some services and/or actions do not produce each data field described.</td></tr></tfoot><tr><th width="25%"></th><th width="60%"></th><th width="15%"></th>        </tr></table>
 
+This page is temporary and its content will be incorporated into another location.  This page is static but please click [here](https://support.google.com/accounts/contact/takeout_feedback?sjid=10260094094251490988-NA) to provide feedback for potential future enhancements and improvements.
 
-Please click [here](https://support.google.com/accounts/contact/takeout_feedback?sjid=10260094094251490988-NA) to provide feedback.
-
-This repository is updated periodically.
